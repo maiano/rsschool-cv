@@ -11,9 +11,18 @@
 
 ###About me
 
+I started my career in the construction industry and worked my way up to construction superintendent and then land surveyor.
+Programming is my hobby. I've built a number of study projects and i'm always looking to expand upon my knowledge.
+
 ***
 
 ###Skills
+
+- HTML
+- CSS
+- JavaScript
+- Haskell
+- Git
 
 ***
 
@@ -34,14 +43,22 @@ collatz n
 
 ###Work experience
 
+[Study projects](https://github.com/maiano "GitHub")
+
 ***
 
 ###Education
 
+- Moscow State University of Civil Engineering(2010-2012)
+  Engineer
+- Ural State University (1997-2002)
+  Chemist
+- Courses:
+  - JetBrains Academy(Frontend Core, Kotlin Basics)
+  - Stepic(Functional programming in Haskell)
+
 ***
 
 ###Languages
-
-***
 
 English (A2)
