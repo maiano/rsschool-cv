@@ -3,7 +3,7 @@
 ***
 ### Contact
 - e-mail: maiano@yandex.ru
-- telegram: @lks_k
+- telegram: @maius_t
 ***
 ### About me
 I started my career in the construction industry and worked my way up to construction superintendent and then land surveyor.
@@ -12,8 +12,10 @@ Programming is my hobby. I've built a number of study projects and i'm always lo
 ### Skills
 - HTML
 - CSS
+- Rust
 - JavaScript
 - Haskell
+- Docker
 - Git
 ***
 ### Code example
@@ -41,4 +43,4 @@ collatz n
   - Stepic(Functional programming in Haskell)
 ***
 ### Languages
-English (A2)
+English
